@@ -8,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "dobin",
-    "oncran": true
-  },
-  {
     "package": "eventstream",
-    "oncran": true
-  },
-  {
-    "package": "lookout",
     "oncran": true
   },
   {
