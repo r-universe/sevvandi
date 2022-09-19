@@ -13,9 +13,19 @@
 	url = https://github.com/sevvandi/composits
 	shallow = true
 	registered = true
+[submodule "dobin"]
+	path = dobin
+	url = https://github.com/sevvandi/dobin
+	shallow = true
+	registered = true
 [submodule "eventstream"]
 	path = eventstream
 	url = https://github.com/sevvandi/eventstream
+	shallow = true
+	registered = true
+[submodule "lookout"]
+	path = lookout
+	url = https://github.com/sevvandi/lookout
 	shallow = true
 	registered = true
 [submodule "outlierensembles"]
