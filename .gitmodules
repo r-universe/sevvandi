@@ -28,6 +28,11 @@
 	url = https://github.com/sevvandi/lookout
 	shallow = true
 	registered = true
+[submodule "oddnet"]
+	path = oddnet
+	url = https://github.com/sevvandi/oddnet
+	shallow = true
+	registered = true
 [submodule "outlierensembles"]
 	path = outlierensembles
 	url = https://github.com/sevvandi/outlierensembles

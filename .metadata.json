@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "oddnet",
+    "oncran": true
+  },
+  {
     "package": "outlierensembles",
     "oncran": true
   }
