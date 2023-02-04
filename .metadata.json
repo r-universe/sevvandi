@@ -26,5 +26,9 @@
   {
     "package": "outlierensembles",
     "oncran": true
+  },
+  {
+    "package": "stxplore",
+    "oncran": true
   }
 ]

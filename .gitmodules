@@ -38,3 +38,8 @@
 	url = https://github.com/sevvandi/outlierensembles
 	shallow = true
 	registered = true
+[submodule "stxplore"]
+	path = stxplore
+	url = https://github.com/sevvandi/stxplore
+	shallow = true
+	registered = true
