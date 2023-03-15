@@ -8,24 +8,9 @@
 	url = https://github.com/sevvandi/airt
 	shallow = true
 	registered = true
-[submodule "composits"]
-	path = composits
-	url = https://github.com/sevvandi/composits
-	shallow = true
-	registered = true
 [submodule "dobin"]
 	path = dobin
 	url = https://github.com/sevvandi/dobin
-	shallow = true
-	registered = true
-[submodule "eventstream"]
-	path = eventstream
-	url = https://github.com/sevvandi/eventstream
-	shallow = true
-	registered = true
-[submodule "lookout"]
-	path = lookout
-	url = https://github.com/sevvandi/lookout
 	shallow = true
 	registered = true
 [submodule "oddnet"]
@@ -33,13 +18,28 @@
 	url = https://github.com/sevvandi/oddnet
 	shallow = true
 	registered = true
-[submodule "outlierensembles"]
-	path = outlierensembles
-	url = https://github.com/sevvandi/outlierensembles
+[submodule "lookout"]
+	path = lookout
+	url = https://github.com/sevvandi/lookout
+	shallow = true
+	registered = true
+[submodule "composits"]
+	path = composits
+	url = https://github.com/sevvandi/composits
+	shallow = true
+	registered = true
+[submodule "eventstream"]
+	path = eventstream
+	url = https://github.com/sevvandi/eventstream
 	shallow = true
 	registered = true
 [submodule "stxplore"]
 	path = stxplore
 	url = https://github.com/sevvandi/stxplore
+	shallow = true
+	registered = true
+[submodule "outlierensembles"]
+	path = outlierensembles
+	url = https://github.com/sevvandi/outlierensembles
 	shallow = true
 	registered = true

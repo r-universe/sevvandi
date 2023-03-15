@@ -4,19 +4,7 @@
     "oncran": true
   },
   {
-    "package": "composits",
-    "oncran": true
-  },
-  {
     "package": "dobin",
-    "oncran": true
-  },
-  {
-    "package": "eventstream",
-    "oncran": true
-  },
-  {
-    "package": "lookout",
     "oncran": true
   },
   {
@@ -24,11 +12,23 @@
     "oncran": true
   },
   {
-    "package": "outlierensembles",
+    "package": "lookout",
+    "oncran": true
+  },
+  {
+    "package": "composits",
+    "oncran": true
+  },
+  {
+    "package": "eventstream",
     "oncran": true
   },
   {
     "package": "stxplore",
+    "oncran": true
+  },
+  {
+    "package": "outlierensembles",
     "oncran": true
   }
 ]
