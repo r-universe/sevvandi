@@ -8,11 +8,6 @@
 	url = https://github.com/sevvandi/airt
 	shallow = true
 	registered = true
-[submodule "composits"]
-	path = composits
-	url = https://github.com/sevvandi/composits
-	shallow = true
-	registered = true
 [submodule "dobin"]
 	path = dobin
 	url = https://github.com/sevvandi/dobin
