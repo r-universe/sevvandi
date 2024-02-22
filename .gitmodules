@@ -14,6 +14,9 @@
 [submodule "lookout"]
 	path = lookout
 	url = https://github.com/sevvandi/lookout
+[submodule "netseer"]
+	path = netseer
+	url = https://github.com/sevvandi/netseer
 [submodule "oddnet"]
 	path = oddnet
 	url = https://github.com/sevvandi/oddnet
