@@ -11,6 +11,9 @@
 [submodule "eventstream"]
 	path = eventstream
 	url = https://github.com/sevvandi/eventstream
+[submodule "graphonmix"]
+	path = graphonmix
+	url = https://github.com/sevvandi/graphonmix
 [submodule "lookout"]
 	path = lookout
 	url = https://github.com/sevvandi/lookout
